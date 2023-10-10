@@ -1,0 +1,22 @@
+h1{
+    color: teal;
+    font-family: fantasy;
+}
+
+.items{
+    color: aqua;
+}
+
+#item2{
+    color: cornflowerblue;
+}
+
+a:hover{
+    background-color: steelblue;
+}
+
+body{
+    background-color: lightblue;
+    border: 15px dotted lightskyblue;
+    padding: 20px;
+}
